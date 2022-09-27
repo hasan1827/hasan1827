@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hasan1827
 - 👀 I’m interested in ... coding and cricket
 - 🌱 I’m currently learning HTML
-- 📫 How to reach me TWITTER USERNAME - hasan_____18
+- 📫 How to reach me TWITTER USERNAME - Mrhasa9
 - 
 
 <!---
